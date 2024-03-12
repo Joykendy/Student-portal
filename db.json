@@ -1,0 +1,59 @@
+{
+    "users":[
+        {
+            "first_name": "kendi",
+            "last_name":"joy",
+            "id":"1",
+            "occupation":"software dev",
+            "email":"joy@gmail.code"
+            
+        },
+        {
+            "first_name": "kendi",
+            "last_name":"joy",
+            "id":"1",
+            "occupation":"software dev",
+            "email":"joy@gmail.code"
+            
+        },
+        {
+            "first_name": "kendi",
+            "last_name":"joy",
+            "id":"1",
+            "occupation":"software dev",
+            "email":"joy@gmail.code"
+            
+        },
+        {
+            "first_name": "kendi",
+            "last_name":"joy",
+            "id":"1",
+            "occupation":"software dev",
+            "email":"joy@gmail.code"
+            
+        },
+        {
+            "first_name": "kendi",
+            "last_name":"joy",
+            "id":"1",
+            "occupation":"software dev",
+            "email":"joy@gmail.code"
+            
+        },
+        {
+            "first_name": "kendi",
+            "last_name":"joy",
+            "id":"1",
+            "occupation":"software dev",
+            "email":"joy@gmail.code"
+            
+        }
+    ],
+
+    "todo-list": [
+        {
+            
+        }
+    ]
+    
+}
